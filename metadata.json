@@ -1,0 +1,8 @@
+{
+  "name": "StudyZen2",
+  "description": "A mindful productivity app featuring a Pomodoro timer, session tracking, social study rooms, and focus music, all wrapped in a beautiful pastel theme system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
